@@ -1,8 +1,8 @@
 // React Assessments
-
+Weekend Project
 // 1. Write a simple React component that simply prints "I am a component" to the screen. Be sure to include all necessary imports, exports, etc...
 
-// 2. Practice With Loops: In React, we often use the map function to iterate over an array held in state. To get more practice with this, write a vanilla javascript for loop that outputs the same thing as the map function below. 
+// 2. Practice With Loops: In React, we often use the map function to iterate over an array held in state. To get more practice with this, write a vanilla javascript for loop that outputs the same thing as the map function below.
 
 
 var stuffArray = [42, "Arthur Dent", 1978, "Zaphod", "Vogon", "Marvin, the Paranoid Android"]
@@ -19,5 +19,5 @@ stuffArray.map(function(el, i){
 var steal = function(){
 
   // your logic here
-  
+
 }
